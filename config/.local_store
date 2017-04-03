@@ -1,0 +1,32 @@
+{
+    "ExpenseController.cls": {
+        "createdById": "00520000004iggqAAA",
+        "createdByName": "Marko Salmenautio",
+        "createdDate": "2016-08-26T07:28:39.000Z",
+        "fileName": "unpackaged/classes/ExpenseController.cls",
+        "fullName": "ExpenseController",
+        "id": "01p20000004h0u6AAA",
+        "lastModifiedById": "00520000004iggqAAA",
+        "lastModifiedByName": "Marko Salmenautio",
+        "lastModifiedDate": "2016-08-26T08:00:00.000Z",
+        "manageableState": "unmanaged",
+        "namespacePrefix": "a00135439",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "MyNewApexClass.cls": {
+        "createdById": "00520000004iggqAAA",
+        "createdByName": "Marko Salmenautio",
+        "createdDate": "2017-04-03T08:16:08.000Z",
+        "fileName": "unpackaged/classes/MyNewApexClass.cls",
+        "fullName": "MyNewApexClass",
+        "id": "01p0O000004tMNDQA2",
+        "lastModifiedById": "00520000004iggqAAA",
+        "lastModifiedByName": "Marko Salmenautio",
+        "lastModifiedDate": "2017-04-03T08:16:08.000Z",
+        "manageableState": "unmanaged",
+        "namespacePrefix": "a00135439",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}

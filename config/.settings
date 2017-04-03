@@ -1,0 +1,17 @@
+{
+    "projectName": "MyNewProjectTestv2",
+    "username": "marko.salmenautio@gmail.com",
+    "id": "4f4cc210-1845-11e7-b2e8-4fe433a15582",
+    "namespace": "a00135439",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://a00135439-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Work\\Development\\mavesmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
